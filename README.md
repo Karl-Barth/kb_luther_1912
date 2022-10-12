@@ -9,4 +9,4 @@ The Data were converted to TEI.
 
 There is also an API available: [https://luther.k-r.ch/](https://luther.k-r.ch/) und [https://luther.k-r.ch/example](https://luther.k-r.ch/example). 
 
-Der Source of the API: [gitlab](https://gitlab.com/andreas_kraenzle/luther) verfügbar.
+Source of the API: [gitlab](https://gitlab.com/andreas_kraenzle/luther) verfügbar.
